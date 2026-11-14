@@ -18,3 +18,13 @@
   "space-after-selector-delimiter": "\n",
   "space-before-selector-delimiter": "",
   "space-before-closing-brace": "\n",
+  "strip-spaces": true,
+  "vendor-prefix-align": true,
+  "sort-order": [
+    [ "$variable" ],
+    [ "$include" ],
+    [
+      "content",
+
+      "position",
+      "z-index",
